@@ -1,11 +1,11 @@
 <p align="left">
   <a href="https://maginus.vn/">
-    <img src="./assets/logo.png" height="60px">
+    <img src="../assets/logo.png" height="60px">
   </a>
 </p>
 <p align="center">
   <a href="https://maginus.vn/">
-    <img src="./assets/banner.png" height="300px">
+    <img src="../assets/banner.png" height="300px">
   </a>
 </p>
 
