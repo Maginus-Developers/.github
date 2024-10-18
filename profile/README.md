@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://maginus.vn/">
-    <img src="../assets/banner.png" height="300px">
+    <img src="../assets/banner.png" width="100%">
   </a>
 </p>
 
